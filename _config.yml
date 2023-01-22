@@ -1,10 +1,12 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          PilotoEspacial Workspace
+bio:            'This is my personal website!'
+description:    "Here you can find some professional information about me like my CV, my profile at linkedin..."
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            https://taylantatli.github.io/Ramme
+url:            https://PilotoEspacial.github.io
+
+#https://PilotoEspacial.github.io/Ramme
 
 # Jekyll
 permalink:      /:title/
@@ -23,8 +25,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: https://twitter.com/Pille99_27
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -32,9 +34,9 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: https://github.com/PilotoEspacial
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+linkedin: https://www.linkedin.com/in/paulinofl99
 #xing: username
 instagram: username
 lastfm: username
